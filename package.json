@@ -1,0 +1,19 @@
+{
+  "name": "glow-icons",
+  "version": "0.0.1",
+  "private": true,
+  "contributors": [
+    "Ash Connell <contact@ashconnell.com>"
+  ],
+  "devDependencies": {
+    "coffee-script": "*",
+    "express": "^4.10.4",
+    "gulp": "*",
+    "gulp-consolidate": "*",
+    "gulp-iconfont": "*",
+    "gulp-rename": "*",
+    "gulp-sketch": "*",
+    "lodash": "*",
+    "serve-static": "^1.7.1"
+  }
+}
