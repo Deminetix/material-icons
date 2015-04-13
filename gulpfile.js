@@ -5,7 +5,7 @@ var iconfont = require('gulp-iconfont');
 var consolidate = require('gulp-consolidate');
 var server = require('./server');
 
-var fontName = 'symbols'; // set name of your symbol font
+var fontName = 'wizard-icons'; // set name of your symbol font
 var template = 'fontawesome-style'; // you can also choose 'foundation-style'
 
 gulp.task('default', ['symbols', 'server']);

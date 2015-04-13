@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg">
 <defs>
-  <font id="symbols" horiz-adv-x="504">
-    <font-face font-family="symbols"
+  <font id="wizard-icons" horiz-adv-x="504">
+    <font-face font-family="wizard-icons"
       units-per-em="504" ascent="504"
       descent="0" />
     <missing-glyph horiz-adv-x="0" />

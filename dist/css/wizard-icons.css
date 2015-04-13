@@ -1,0 +1,115 @@
+@font-face {
+  font-family: "wizard-icons";
+  src: url('../fonts/wizard-icons.eot');
+  src: url('../fonts/wizard-icons.eot?#iefix') format('eot'),
+    url('../fonts/wizard-icons.woff') format('woff'),
+    url('../fonts/wizard-icons.ttf') format('truetype'),
+    url('../fonts/wizard-icons.svg#wizard-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.wz:before {
+  display: inline-block;
+  font-family: "wizard-icons";
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wz-lg {
+  font-size: 1.3333333333333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.wz-2x { font-size: 2em; }
+.wz-3x { font-size: 3em; }
+.wz-4x { font-size: 4em; }
+.wz-5x { font-size: 5em; }
+.wz-fw {
+  width: 1.2857142857142858em;
+  text-align: center;
+}
+
+.wz-add:before { content: "\E001" }
+.wz-back:before { content: "\E002" }
+.wz-bell:before { content: "\E003" }
+.wz-bookmark:before { content: "\E004" }
+.wz-building:before { content: "\E005" }
+.wz-bullhorn:before { content: "\E006" }
+.wz-camera:before { content: "\E007" }
+.wz-category:before { content: "\E008" }
+.wz-chat:before { content: "\E009" }
+.wz-close-feedback:before { content: "\E00A" }
+.wz-close:before { content: "\E00B" }
+.wz-cloud:before { content: "\E00C" }
+.wz-cog:before { content: "\E00D" }
+.wz-communicate:before { content: "\E00E" }
+.wz-complaint:before { content: "\E00F" }
+.wz-crowd:before { content: "\E010" }
+.wz-dashboard-2:before { content: "\E011" }
+.wz-dashboard:before { content: "\E012" }
+.wz-date:before { content: "\E013" }
+.wz-disconnected:before { content: "\E014" }
+.wz-done:before { content: "\E015" }
+.wz-edit:before { content: "\E016" }
+.wz-exit:before { content: "\E017" }
+.wz-expand-less:before { content: "\E018" }
+.wz-expand-more:before { content: "\E019" }
+.wz-fb:before { content: "\E01A" }
+.wz-filter:before { content: "\E01B" }
+.wz-flag:before { content: "\E01C" }
+.wz-gallery:before { content: "\E01D" }
+.wz-glow-man-circle:before { content: "\E01E" }
+.wz-glow-man:before { content: "\E01F" }
+.wz-glow-plus:before { content: "\E020" }
+.wz-glow:before { content: "\E021" }
+.wz-happy:before { content: "\E022" }
+.wz-hide-keyboard:before { content: "\E023" }
+.wz-home:before { content: "\E024" }
+.wz-idea:before { content: "\E025" }
+.wz-image:before { content: "\E026" }
+.wz-important:before { content: "\E027" }
+.wz-indifferent:before { content: "\E028" }
+.wz-info-outline:before { content: "\E029" }
+.wz-info:before { content: "\E02A" }
+.wz-install:before { content: "\E02B" }
+.wz-list:before { content: "\E02C" }
+.wz-location:before { content: "\E02D" }
+.wz-mail:before { content: "\E02E" }
+.wz-menu:before { content: "\E02F" }
+.wz-more:before { content: "\E030" }
+.wz-my-location:before { content: "\E031" }
+.wz-notification:before { content: "\E032" }
+.wz-offers:before { content: "\E033" }
+.wz-other:before { content: "\E034" }
+.wz-person-add:before { content: "\E035" }
+.wz-person:before { content: "\E036" }
+.wz-plus-one:before { content: "\E037" }
+.wz-praise:before { content: "\E038" }
+.wz-private:before { content: "\E039" }
+.wz-public:before { content: "\E03A" }
+.wz-question:before { content: "\E03B" }
+.wz-rating:before { content: "\E03C" }
+.wz-refresh:before { content: "\E03D" }
+.wz-registered:before { content: "\E03E" }
+.wz-reports:before { content: "\E03F" }
+.wz-request:before { content: "\E040" }
+.wz-research:before { content: "\E041" }
+.wz-review:before { content: "\E042" }
+.wz-sad:before { content: "\E043" }
+.wz-scan:before { content: "\E044" }
+.wz-search:before { content: "\E045" }
+.wz-send:before { content: "\E046" }
+.wz-share:before { content: "\E047" }
+.wz-star:before { content: "\E048" }
+.wz-suggestion:before { content: "\E049" }
+.wz-survey:before { content: "\E04A" }
+.wz-time:before { content: "\E04B" }
+.wz-trophy:before { content: "\E04C" }
+.wz-twitter:before { content: "\E04D" }
+.wz-type:before { content: "\E04E" }
+.wz-unregistered:before { content: "\E04F" }
+.wz-upvote:before { content: "\E050" }
