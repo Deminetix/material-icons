@@ -27,7 +27,7 @@ gulp.task('symbols', function(){
         fontName: fontName,
         fontPath: '../fonts/', // set path to font (from your CSS file if relative)
         // fontHeight: '100',
-        className: 'gi' // set class name in your CSS
+        className: 'wz' // set class name in your CSS
       };
       gulp.src('templates/' + template + '.css')
         .pipe(consolidate('lodash', options))
