@@ -1,1 +1,1 @@
-# wizard-icons
+# material-icons
