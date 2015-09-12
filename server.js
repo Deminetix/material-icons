@@ -4,7 +4,7 @@ var express     = require('express'),
     serveStatic = require('serve-static');
 
 var path = 'dist';
-var port = '9090';
+var port = '9099';
 
 exports.start = function () {
     app.use(serveStatic(__dirname + '/' + path));
